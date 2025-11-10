@@ -1,0 +1,7 @@
+{
+  "name": "abhi3716/linkedin_clone_php",
+  "description": "A simple PHP + MySQL LinkedIn clone project",
+  "type": "project",
+  "license": "MIT",
+  "require": {}
+}
